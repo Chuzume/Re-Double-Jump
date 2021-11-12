@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "unlock": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "re_d.jump:celestial_feather"
+      }
+    }
+  },
+  "rewards": {
+    "function": "re_d.jump:craft/celestial_feather"
+  }
+}
