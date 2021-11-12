@@ -1,0 +1,1 @@
+give @s minecraft:splash_potion{display:{Name:'{"text":"Re:Place Jump Restorer","color":"light_purple","italic":false}'},HideFlags:32,ItemName:Re_Place_Jump_Restorer,CustomPotionColor:2096957} 1
